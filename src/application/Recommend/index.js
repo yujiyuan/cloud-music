@@ -1,9 +1,4 @@
-import React from 'react';
+import Recommend from './Recommend';
 
-function Recommend(props) {
-  return (
-    <div>Recommend</div>
-  )
-}
 
-export default React.memo(Recommend);
+export default Recommend;
